@@ -1,10 +1,10 @@
-https://public.tableau.com/views/MeadowParkTechSolutions-Stories/MeadowParkTechSolutions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Employee Training Effectiveness & ROI (Tableau)
 
 Interactive Tableau dashboard analyzing employee training programs to identify which initiatives deliver the highest performance gains and return on investment.
 
 🔗 **View the interactive dashboard on Tableau Public:**
-https://public.tableau.com/views/MeadowParkTechSolutions-Stories/MeadowParkTechSolutions?:language=en-US&publish=yes
+[https://public.tableau.com/views/MeadowParkTechSolutions-Stories/MeadowParkTechSolutions?:language=en-US&publish=yes](https://public.tableau.com/views/MeadowParkTechSolutions-Stories/MeadowParkTechSolutions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
